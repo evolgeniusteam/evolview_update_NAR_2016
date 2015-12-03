@@ -1,0 +1,12 @@
+!grouplabel	style=5,color=pink,show=1,marginPCT=0,fontsize=16,fontcolor=black,fontitalic=0,textalign=middle,textorientation=horizontal,linewidth=0
+NC_013790	bkcolor=#D7A9CF,text=Euryarchaeota,fontcolor=black
+NZ_GG774892,NZ_ABZV01000054	bkcolor=#D1E8C6,text=Bacteroidetes,fontcolor=black
+GQ354955	bkcolor=#AEDEDD,text=OD1,fontcolor=black
+FJ470446,FJ470435	 bkcolor=#F9CBCC,text=TM7,fontcolor=black
+AM420151,FJ976437	bkcolor=#CECBE5,text=Proteobacteria,fontcolor=black
+EU592964,FJ976446	bkcolor=#ADD8AB,text=Actinobacteria,fontcolor=black
+NZ_GG770343,EU137409	bkcolor=#DBA8AA,text=Fusobacteria,fontcolor=black
+JN713473,AY331414	bkcolor=#D4EEF5,text=Chloroflexi,fontcolor=black
+AF033303	bkcolor=#F0CEE2,text=Spirochetes,fontcolor=black
+JN713303,FJ976390		bkcolor=#FBF9D2,text=Synergistetes,fontcolor=black
+FJ976236,EU842135	bkcolor=#ABA9D3,text=Firmicutes,fontcolor=black

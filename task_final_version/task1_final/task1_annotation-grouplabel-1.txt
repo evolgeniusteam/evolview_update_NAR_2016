@@ -1,0 +1,6 @@
+!grouplabel	style=2,color=pink,show=1,marginPCT=0.05,fontsize=14,fontcolor=white,fontitalic=0,textalign=middle,textorientation=horizontal,linewidth=2
+!op	0.8
+EME30410.1,XP_002773537.1	text=Eukaryota,fontcolor=black,linewidth=4,bkcolor=#EE2C2C
+YP_004511903.1,YP_004681256.1	text=Bacteria,fontcolor=black,linewidth=4,bkcolor=#27408B
+TGGT1_038055,PCYB_022410/exon2	text=Eukaryota,fontcolor=black,linewidth=4,bkcolor=#EE2C2C
+YP_001891800.1,YP_034080.1	text=Bacteria,fontcolor=black,linewidth=4,bkcolor=#27408B

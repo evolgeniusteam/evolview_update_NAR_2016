@@ -1,0 +1,6 @@
+group labesl
+
+!grouplabel
+MD1-032,MDJN97	text=BETATORQUEVIRUS,textorientation=vertical,linecolor=darkgrey,fontcolor=darkgrey,linestyle=dashed,textalign=middle,fontsize=18
+TTMV2-NLC023,TTMV6-CBD203	text=GAMMATORQUEVIRUS,textorientation=vertical,linecolor=darkgrey,fontcolor=darkgrey,linestyle=dashed,textalign=middle,fontsize=18
+tth8,JT05F	text=ALPHATORQUEVIRUS,textorientation=vertical,linecolor=darkgrey,fontcolor=darkgrey,linestyle=dashed,textalign=middle,fontsize=18

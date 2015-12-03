@@ -1,0 +1,51 @@
+## leaf background color
+ MD1-032,MDJN97	lightblue	ad
+ ## leaf background color
+ TTMV2-NLC023,TTMV6-CBD203	pink	ad
+ ## leaf background color
+ tth8,JT05F	lightgreen	ad
+ ##color circles
+ !type		circle
+ !showlegends	0
+  
+ ## let the data begin 
+ TTV28-CT43F	circle,lightgreen:green
+ TTV29-TTVyon-KC009	circle,lightgreen:green
+ TTV27-CT23F	circle,lightgreen:green
+ TTV26-MF-TTV3	circle,lightgreen:green
+ TTV25-Mf-TTV9	circle,lightgreen:green
+ TTV24-SAa-01	circle,lightgreen:green
+ TTV23-CH65-2	circle,lightgreen:green
+ TTV22-svi-1	circle,lightgreen:green
+ TTV21-TCHN-B	circle,lightgreen:green
+ TTV20-SAa-10	circle,lightgreen:green
+ TTV19-SANBAN	circle,lightgreen:green
+ TTV17-SENV-G	circle,lightgreen:green
+ TTV15-TJN01	circle,lightgreen:green
+ TTV18-SENV-C	circle,lightgreen:green
+ TTV16-TUS01	circle,lightgreen:green
+ TTV14-CH65-1	circle,lightgreen:green
+ TTV13-TCHN-A	circle,lightgreen:green
+ TTV3-HEL32	circle,lightgreen:green
+ TTV2-CH71	circle,lightgreen:green
+ TTV1-TA278	circle,lightgreen:green
+ TTV4-Pt-TTV6	circle,lightgreen:green
+ TTV5-TCHN-C1	circle,lightgreen:green
+ TTV6-KAV	circle,lightgreen:green
+ TTV7-PMV	circle,lightgreen:green
+ TTV8-Kt-08F	circle,lightgreen:green
+ TTV11-TCHN-D1	circle,lightgreen:green
+ TTV10-JT34F	circle,lightgreen:green
+ TTV9-BM1C-18	circle,lightgreen:green
+ TTV12-CT44F	circle,lightgreen:green
+ TTMDV1-MD1-073	circle,lightblue:blue
+ TTMDV2-MD2-013	circle,lightblue:blue
+ TTMV2-NLC023	circle,pink:red
+ TTMV1-CBD279	circle,pink:red
+ TTMV3-NLC026	circle,pink:red
+ TTMV4-Pt-TTV8-II	circle,pink:red
+ TTMV5-TGP96	circle,pink:red
+ TTMV9-TLMV-NLC030	circle,pink:red
+ TTMV8-PB4TL	circle,pink:red
+ TTMV7-CLC156	circle,pink:red
+ TTMV6-CBD203	circle,pink:red
